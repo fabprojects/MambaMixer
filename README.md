@@ -1,2 +1,2 @@
 # MambaMixer
-Appendix for MambaMixer
+Appendix file for MambaMixer.
